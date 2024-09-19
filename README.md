@@ -1,4 +1,4 @@
-# Tami Poliwoda
+#Tami Poliwoda
 
 **Full Stack Developer**
 
@@ -16,8 +16,7 @@ I’m a Full-Stack Developer with expertise in front-end, back-end, and animatio
 - **Backend:** Node.js, Express, MySQL, User Authentication, OAuth
 - **Tools:** GitHub, Heroku, Jest, Agile Development
 - **APIs:** DOM APIs, Web APIs
-- **Design & Animation:** Adobe Creative Suite (After Effects, Photoshop, Illustrator, Premiere Pro), Visual Design, 2D and 3D Animation, Motion Graphics, Unity
-- **Project Management:** Agile Development, Storyboards, Illustration
+- **Design & Animation:** Adobe Creative Suite (After Effects, Photoshop, Illustrator, Premiere Pro), Visual Design, 2D and 3D Animation, Motion Graphics, Unity, Storyboards, Illustration
 
 ---
 
